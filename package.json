@@ -1,0 +1,27 @@
+{
+  "name": "flashcard_generator",
+  "version": "1.0.0",
+  "description": "quizical flashcard game",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "node flashcards.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jester2255/Flashcard_Generator.git"
+  },
+  "keywords": [
+    "node",
+    "flashcards.js"
+  ],
+  "author": "Philip Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jester2255/Flashcard_Generator/issues"
+  },
+  "homepage": "https://github.com/jester2255/Flashcard_Generator#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.2"
+  }
+}
